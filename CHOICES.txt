@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: ____
+First Choice: Seized the Burrito fish.
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
